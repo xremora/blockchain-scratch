@@ -1,30 +1,30 @@
-# TODOS
+# TODOS 
 
 - [x] Hello world
-- [ ] sample app
-- [ ] Primitive data types
-- [ ] Variables
-- [ ] reading/writing state variables
-- [ ] Ether and Wei
-- [ ] Gas and Gas price
-- [ ] If / Else
-- [ ] For and while loop
-- [ ] Mapping
+- [x] sample app
+- [x] Primitive data types
+- [x] Variables
+- [x] reading/writing state variables
+- [x] Ether and Wei
+- [x] Gas and Gas price
+- [x] If / Else
+- [x] For and while loop
+- [x] Mapping
 - [ ] Array
-- [ ] Struct
-- [ ] Data Locations - storage, memory and calldata
-- [ ] Function
-- [ ] View and Pure functions
-- [ ] Error
-- [ ] Function modifier
-- [ ] Events
-- [ ] Constructor
-- [ ] Shadowing inherited state variables
-- [ ] calling parent contracts
-- [ ] visibility
-- [ ] Interface
-- [ ] Payable
-- [ ] Sending ether - transfer, send and call
+- [x] Struct
+- [x] Data Locations - storage, memory and calldata
+- [x] Function
+- [x] View and Pure functions
+- [x] Error
+- [x] Function modifier
+- [x] Events
+- [x] Constructor
+- [x] Shadowing inherited state variables
+- [x] calling parent contracts
+- [x] visibility
+- [x] Interface
+- [x] Payable
+- [x] Sending ether - transfer, send and call
 - [ ] Fallback
 - [ ] Call
 - [ ] Delegatecall
