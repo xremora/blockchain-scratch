@@ -1,0 +1,37 @@
+# TODOS
+
+- [x] Hello world
+- [ ] sample app
+- [ ] Primitive data types
+- [ ] Variables
+- [ ] reading/writing state variables
+- [ ] Ether and Wei
+- [ ] Gas and Gas price
+- [ ] If / Else
+- [ ] For and while loop
+- [ ] Mapping
+- [ ] Array
+- [ ] Struct
+- [ ] Data Locations - storage, memory and calldata
+- [ ] Function
+- [ ] View and Pure functions
+- [ ] Error
+- [ ] Function modifier
+- [ ] Events
+- [ ] Constructor
+- [ ] Shadowing inherited state variables
+- [ ] calling parent contracts
+- [ ] visibility
+- [ ] Interface
+- [ ] Payable
+- [ ] Sending ether - transfer, send and call
+- [ ] Fallback
+- [ ] Call
+- [ ] Delegatecall
+- [ ] Function selector
+- [ ] Calling other Contract
+- [ ] Try / Catch
+- [ ] import
+- [ ] Library
+- [ ] Hashing with keccak256
+- [ ] Verifying signature
